@@ -3,10 +3,11 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mongo:7.0.12-jammy
-mongo:7.0.12
-seataio/seata-server:2.0.0-slim
-apache/kafka:3.7.0
-nacos/nacos-server:v2.3.2-slim
-mysql:8.0.35
-redis:7.2.5
+#mongo:7.0.12-jammy
+#mongo:7.0.12
+#seataio/seata-server:2.0.0-slim
+#apache/kafka:3.7.0
+#nacos/nacos-server:v2.3.2-slim
+#mysql:8.0.35
+#redis:7.2.5
+openjdk:8u201-jdk-alpine
