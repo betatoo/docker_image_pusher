@@ -10,4 +10,10 @@
 #nacos/nacos-server:v2.3.2-slim
 #mysql:8.0.35
 #redis:7.2.5
-openjdk:8u201-jdk-alpine
+#openjdk:8u201-jdk-alpine
+#kuboard
+eipwork/kuboard-agent:v3
+eipwork/etcd-host:3.4.16-1
+eipwork/kuboard:v3
+questdb/questdb:6.0.4
+questdb/questdb:6.0.5
