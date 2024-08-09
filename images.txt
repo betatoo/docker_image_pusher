@@ -18,4 +18,5 @@
 #eipwork/kuboard:v3
 #questdb/questdb:6.0.4
 #questdb/questdb:6.0.5
-kubernetesui/metrics-scraper:v1.0.8
+#kubernetesui/metrics-scraper:v1.0.8
+mongodb/mongodb-community-server:7.0.8-ubuntu2204
