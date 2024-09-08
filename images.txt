@@ -19,4 +19,5 @@
 #questdb/questdb:6.0.4
 #questdb/questdb:6.0.5
 #kubernetesui/metrics-scraper:v1.0.8
-mongodb/mongodb-community-server:7.0.8-ubuntu2204
+#mongodb/mongodb-community-server:7.0.8-ubuntu2204
+postgres:16.4-alpine3.20
