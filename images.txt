@@ -21,4 +21,5 @@
 #kubernetesui/metrics-scraper:v1.0.8
 #mongodb/mongodb-community-server:7.0.8-ubuntu2204
 #postgres:16.4-alpine3.20
-docker.elastic.co/beats/filebeat:7.17.9
+#docker.elastic.co/beats/filebeat:7.17.9
+azul/zulu-openjdk-alpine:17-jre-latest
