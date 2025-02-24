@@ -25,4 +25,4 @@
 #azul/zulu-openjdk-alpine:17-jre-latest
 #zenika/alpine-chrome:114-with-chromedriver
 #alpine:3.19
-libreoffice/online:master
+libreoffice/online:master libreoffice-online:master
