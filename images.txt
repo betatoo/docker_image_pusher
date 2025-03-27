@@ -25,4 +25,8 @@
 #azul/zulu-openjdk-alpine:17-jre-latest
 #zenika/alpine-chrome:114-with-chromedriver
 #alpine:3.19
-libreoffice/online:master libreoffice-online:master
+#libreoffice/online:master libreoffice-online:master
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+mysql:8.0.39
+infiniflow/infinity:v0.6.0-dev3
+valkey/valkey:8
