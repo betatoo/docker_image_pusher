@@ -30,4 +30,5 @@
 #mysql:8.0.39
 #infiniflow/infinity:v0.6.0-dev3
 #valkey/valkey:8
-docker.n8n.io/n8nio/n8n
+#docker.n8n.io/n8nio/n8n
+xprobe/xinference
