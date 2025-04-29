@@ -31,4 +31,5 @@
 #infiniflow/infinity:v0.6.0-dev3
 #valkey/valkey:8
 #docker.n8n.io/n8nio/n8n
-xprobe/xinference
+#xprobe/xinference
+--platform=linux/arm64 mysql:8.0.35
