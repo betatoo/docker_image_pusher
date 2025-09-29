@@ -39,4 +39,5 @@
 #--platform=linux/arm64 apache/kafka:3.7.0
 #--platform=linux/arm64/v8 openjdk:8u201-jdk-alpine
 #--platform=linux/arm64/v8 mysql:8.4.6
-onlyoffice/communityserver:latest
+#onlyoffice/communityserver:latest
+onlyoffice/documentserver:latest
