@@ -40,4 +40,5 @@
 #--platform=linux/arm64/v8 openjdk:8u201-jdk-alpine
 #--platform=linux/arm64/v8 mysql:8.4.6
 #onlyoffice/communityserver:latest
-onlyoffice/documentserver:latest
+#onlyoffice/documentserver:latest
+paddlecloud/paddlespeech:develop-cpu-latest
