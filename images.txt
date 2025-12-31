@@ -44,5 +44,7 @@
 #paddlecloud/paddlespeech:develop-cpu-latest
 #--platform=linux/amd64 openjdk:17.0.2-slim
 #-platform=linux/arm64/v8 openjdk:17.0.2-slim
---platform=linux/amd64 eclipse-temurin:17.0.17_10-jre-jammy
---platform=linux/arm64/v8 eclipse-temurin:17.0.17_10-jre-jammy
+#--platform=linux/amd64 eclipse-temurin:17.0.17_10-jre-jammy
+#--platform=linux/arm64/v8 eclipse-temurin:17.0.17_10-jre-jammy
+--platform=linux/amd64 apache/seata-server:2.5.0.jdk17
+--platform=linux/arm64 apache/seata-server:2.5.0.jdk17
