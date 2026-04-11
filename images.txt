@@ -33,20 +33,21 @@
 #docker.n8n.io/n8nio/n8n
 #xprobe/xinference
 #--platform=linux/arm64 mysql:8.0.35
-#--platform=linux/arm64 nacos/nacos-server:v2.4.2.1
-#--platform=linux/arm64 seataio/seata-server:2.0.0
-#--platform=linux/arm64 redis:7.2.4
-#--platform=linux/arm64 apache/kafka:3.7.0
 #--platform=linux/arm64/v8 openjdk:8u201-jdk-alpine
-#--platform=linux/arm64/v8 mysql:8.4.6
 #onlyoffice/communityserver:latest
 #onlyoffice/documentserver:latest
 #paddlecloud/paddlespeech:develop-cpu-latest
 #--platform=linux/amd64 openjdk:17.0.2-slim
-#-platform=linux/arm64/v8 openjdk:17.0.2-slim
+#--platform=linux/arm64/v8 openjdk:17.0.2-slim
 #--platform=linux/amd64 eclipse-temurin:17.0.17_10-jre-jammy
 #--platform=linux/arm64/v8 eclipse-temurin:17.0.17_10-jre-jammy
 #--platform=linux/amd64 apache/seata-server:2.5.0.jdk17
 #--platform=linux/arm64 apache/seata-server:2.5.0.jdk17
-docker.elastic.co/elasticsearch/elasticsearch:7.17.9
-docker.elastic.co/kibana/kibana:7.17.9
+#docker.elastic.co/elasticsearch/elasticsearch:7.17.9
+#docker.elastic.co/kibana/kibana:7.17.9
+--platform=linux/arm64 mysql:8.4.6
+--platform=linux/arm64 redis:7.2.4
+--platform=linux/arm64 nacos/nacos-server:v2.4.2.1
+--platform=linux/arm64 apache/seata-server:2.5.0.jdk17
+--platform=linux/arm64 apache/kafka:3.7.0
+--platform=linux/arm64 kafbat/kafka-ui:v1.4.2
