@@ -45,9 +45,15 @@
 #--platform=linux/arm64 apache/seata-server:2.5.0.jdk17
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.9
 #docker.elastic.co/kibana/kibana:7.17.9
---platform=linux/arm64 mysql:8.4.6
---platform=linux/arm64 redis:7.2.4
---platform=linux/arm64 nacos/nacos-server:v2.4.2.1
---platform=linux/arm64 apache/seata-server:2.5.0.jdk17
---platform=linux/arm64 apache/kafka:3.7.0
---platform=linux/arm64 kafbat/kafka-ui:v1.4.2
+#--platform=linux/arm64 mysql:8.4.6
+#--platform=linux/arm64 redis:7.2.4
+#--platform=linux/arm64 nacos/nacos-server:v2.4.2.1
+#--platform=linux/arm64 apache/seata-server:2.5.0.jdk17
+#--platform=linux/arm64 apache/kafka:3.7.0
+#--platform=linux/arm64 kafbat/kafka-ui:v1.4.2
+--platform=linux/amd64 mysql:8.4.6
+--platform=linux/amd64 redis:7.2.4
+--platform=linux/amd64 nacos/nacos-server:v2.4.2.1
+--platform=linux/amd64 apache/seata-server:2.5.0.jdk17
+--platform=linux/amd64 apache/kafka:3.7.0
+--platform=linux/amd64 kafbat/kafka-ui:v1.4.2
